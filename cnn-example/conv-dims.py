@@ -1,3 +1,6 @@
+"""
+this example shows the construction of a convolutional layer.
+"""
 from keras.models import Sequential
 from keras.layers import Conv2D
 
